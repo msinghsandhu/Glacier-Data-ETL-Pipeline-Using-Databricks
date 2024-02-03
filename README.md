@@ -1,4 +1,4 @@
-#Glacier Data ETL Pipeline Using Databricks
+# Glacier Data ETL Pipeline Using Databricks
 
 1. Extracted glacier data from the datahub.io website and stored it in DBFS.
 2. Applied transformation operations to split the entire dataset based on their respective years.
